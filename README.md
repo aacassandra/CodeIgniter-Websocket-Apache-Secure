@@ -6,9 +6,9 @@ Saya asumsikan anda sudah mengerti kegunaan 3 hal di bawah ini:
 
 Needs | Detail
 --- | ---
-Framework | CodeIgniter
-Websocket | Ratchet
-Apache | XAMPP (Recommended!)
+Framework | [CodeIgniter](https://www.codeigniter.com/)
+Websocket | [Ratchet](http://socketo.me/)
+Apache | [XAMPP (Recommended!)](https://www.apachefriends.org/index.html)
 
 (Jika anda tidak mengerti 3 hal tersebut anda bisa mencarinya di google)<br><br>
 
