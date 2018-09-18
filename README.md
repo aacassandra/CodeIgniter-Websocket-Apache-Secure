@@ -1,18 +1,21 @@
+![project-logo](https://user-images.githubusercontent.com/29236058/45701101-896f5c80-bb98-11e8-96f4-aa851d786048.png)
+
 # CodeIgniter-Websocket-Apache-Secure
 Pustaka ini berisi demo mengomentari / memposting secara realtime menggunakan CodeIgniter + Ratchet Websocket + Apache dengan Koneksi Aman.
 
-## Sebelum melanjutkan ini
-Saya asumsikan anda sudah mengerti kegunaan 3 hal di bawah ini:
+## Persyaratan
+Anda harus mengerti kegunaan dari ke 4 hal di bawah ini:
 
 Needs | Detail
 --- | ---
 Framework | [CodeIgniter](https://www.codeigniter.com/)
 Websocket | [Ratchet](http://socketo.me/)
 Apache | [XAMPP (Recommended!)](https://www.apachefriends.org/index.html)
+SSL | [Lets Encrypt (Recommended!)](https://www.sslforfree.com/)
 
-(Jika anda tidak mengerti 3 hal tersebut anda bisa mencarinya di google)<br><br>
+(Jika anda tidak mengerti 4 hal tersebut anda bisa mencarinya di google)<br><br>
 
-Pustaka ini sudah di uji dan bekerja 100% pada server localhost yang kemudian dilakukan <b>Port Forwading</b> agar bisa di akses online dan "Secure Connection Active"<br><br>
+Pustaka ini sudah di uji dan bekerja 100% pada server localhost yang kemudian dilakukan <b>Port Forwading</b> agar bisa di akses online dengan "Secure Connection Active"<br><br>
 
 > <b>(Untuk hosting belum teruji)</b><br>
 ## Pustaka ini dibuat ?
